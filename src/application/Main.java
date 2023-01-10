@@ -9,7 +9,5 @@ public class Main {
         //Board board = new Board(8,8);
         ChessMatch chessMatch = new ChessMatch();
         UI.printBoard(chessMatch.getPieces());
-
-
     }
 }
